@@ -6,3 +6,5 @@ pluginManagement {
     }
   }
 }
+
+include(":schema1", ":schema2", ":feature")
